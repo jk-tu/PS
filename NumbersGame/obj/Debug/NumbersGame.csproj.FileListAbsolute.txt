@@ -1,0 +1,14 @@
+c:\users\krasi\documents\visual studio 2013\Projects\NumbersGame\NumbersGame\bin\Debug\NumbersGame.exe.config
+c:\users\krasi\documents\visual studio 2013\Projects\NumbersGame\NumbersGame\bin\Debug\NumbersGame.exe
+c:\users\krasi\documents\visual studio 2013\Projects\NumbersGame\NumbersGame\bin\Debug\NumbersGame.pdb
+c:\users\krasi\documents\visual studio 2013\Projects\NumbersGame\NumbersGame\obj\Debug\NumbersGame.csprojResolveAssemblyReference.cache
+c:\users\krasi\documents\visual studio 2013\Projects\NumbersGame\NumbersGame\obj\Debug\MainWindow.baml
+c:\users\krasi\documents\visual studio 2013\Projects\NumbersGame\NumbersGame\obj\Debug\MainWindow.g.cs
+c:\users\krasi\documents\visual studio 2013\Projects\NumbersGame\NumbersGame\obj\Debug\App.g.cs
+c:\users\krasi\documents\visual studio 2013\Projects\NumbersGame\NumbersGame\obj\Debug\NumbersGame_MarkupCompile.cache
+c:\users\krasi\documents\visual studio 2013\Projects\NumbersGame\NumbersGame\obj\Debug\NumbersGame.g.resources
+c:\users\krasi\documents\visual studio 2013\Projects\NumbersGame\NumbersGame\obj\Debug\NumbersGame.Properties.Resources.resources
+c:\users\krasi\documents\visual studio 2013\Projects\NumbersGame\NumbersGame\obj\Debug\NumbersGame.csproj.GenerateResource.Cache
+c:\users\krasi\documents\visual studio 2013\Projects\NumbersGame\NumbersGame\obj\Debug\NumbersGame.exe
+c:\users\krasi\documents\visual studio 2013\Projects\NumbersGame\NumbersGame\obj\Debug\NumbersGame.pdb
+c:\users\krasi\documents\visual studio 2013\Projects\NumbersGame\NumbersGame\obj\Debug\App.baml
